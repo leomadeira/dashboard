@@ -44,10 +44,8 @@ body {
   display: block;
   margin: 85px auto;
 }
-.sidebar-inf i {
-  padding-right: 16px;
-  color: rgba(255, 255, 255, 0.616);
-  cursor: pointer;
+.sidebar-inf li span{
+  padding-left: 10px;
 }
 .sidebar-inf a {
   color: rgba(255, 255, 255, 0.616);
@@ -62,7 +60,7 @@ body {
 .sidebar-inf li a:hover {
   color: white;
 }
-.sidebar-inf li i:hover {
+.sidebar-inf li:hover {
   color: white;
 }
 
