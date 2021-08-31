@@ -22,7 +22,7 @@ body {
 .sidebar {
   width: 20%;
   background-color: #2d3035;
-  height: 100vh;
+  height: 100%;
   max-width: 300px;
 }
 
