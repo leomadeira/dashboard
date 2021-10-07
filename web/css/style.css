@@ -14,16 +14,16 @@ body {
 }
 
 .wp20 {
-  float: left;
   width: 100%;
 }
 /*Header escuro*/
 
 .sidebar {
+  height: 980px;
   width: 20%;
   background-color: #2d3035;
-  height: 100%;
   max-width: 300px;
+  position: fixed;
 }
 
 .logo {
